@@ -3,6 +3,7 @@
   "name": "Worx Landroid Cloud",
   "documentation": "https://github.com/MTrab/landroid_cloud/blob/master/README.md",
   "issue_tracker": "https://github.com/MTrab/landroid_cloud/issues",
+  "version": "1.6.5",
   "requirements": ["pyworxcloud==1.2.21"],
   "codeowners": ["@MTrab"]
 }
